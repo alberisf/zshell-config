@@ -1,10 +1,12 @@
 # My Zshell config
 
-`sudo apt install -y zsh
+`
+sudo apt install -y zsh
 
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"`
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
+`
 
 Open:
 
