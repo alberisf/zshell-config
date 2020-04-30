@@ -24,6 +24,8 @@ zinit light zsh-users/zsh-completions
 ```
 
 ```
+zsh
+
 source ~/.zshrc
 ```
 
