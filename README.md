@@ -23,7 +23,12 @@ zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-completions
 ```
 
-
 ```
 source ~/.zshrc
+```
+
+Make it your default shell: 
+
+```
+chsh -s $(which zsh)
 ```
